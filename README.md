@@ -1,3 +1,1 @@
 # FaceRecognitionAttendanceSystem
-# FaceRecognitionAttendanceSystem
-# FaceRecognitionAttendanceSystem
